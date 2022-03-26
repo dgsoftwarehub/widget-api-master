@@ -1,0 +1,11 @@
+runtime: nodejs10
+service: api
+# handlers:
+#   - url: /files
+#     static_dir: files
+#     http_headers:
+#         Access-Control-Allow-Origin: https://red-equinox-281013.uc.r.appspot.com
+
+
+
+
